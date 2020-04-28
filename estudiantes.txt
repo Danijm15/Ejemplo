@@ -1,0 +1,7 @@
+Daniel Jiménez - Python
+Sara Navarro - JavaScript
+Myriam Jiménez - UX
+Luca Jiménez - VueJS
+Eliah Jiménez - ReactJS
+Noa Jiménez - ReactJS
+Aarón Jiménez - ReactJS
