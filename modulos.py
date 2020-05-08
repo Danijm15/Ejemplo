@@ -36,3 +36,5 @@ from utilidades_extra import tirar_dado as td
 print(random.randint(10, 15))
   
 print(td(6))
+
+
