@@ -35,3 +35,20 @@ def buscar_valor(valor):
 print("Ingresa un número:")
 número = int(input())
 print(buscar_valor(número))
+
+
+while True:
+    print("Si quiere seguir jugando pulse (1):")
+    print("Si no quiere seguir jugando pulse (2):")
+    opción = input("> ")
+    if opción == "1":
+        print("Sigue jugando.")
+        print("---o---")
+        print()
+        print("Ingresa un número:")
+        número = int(input())
+        print(buscar_valor(número))
+    elif opción == "2":
+        print("Hasta pronto.")
+        break
+
